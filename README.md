@@ -6,7 +6,7 @@ This repository provides a single access point for the **software tool** and **s
 ## Resources:
 ### 1. Think Like AI V2 — The Software Tool
 * **Live Demo:** [https://think-like-ai-v2-1338190964.us-central1.run.app/](https://think-like-ai-v2-1338190964.us-central1.run.app/)
-* **Code:** ([https://github.com/saniavn/Think-Like-AI-V.2](https://github.com/saniavn/Think-Like-AI-V.2)
+* **Code:** ([https://github.com/saniavn/Think-Like-AI-V.2](https://github.com/saniavn/Think-Like-AI-Fall-2025-Present)
 
 
 ### 2. Spinner Creation and Data Tracker — Supplementary Tool
