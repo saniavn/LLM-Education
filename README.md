@@ -19,8 +19,11 @@ A software tool to create, track, and visualize outcomes from spinner experiment
 
 ## Contributors
 
-- **Saniya Vahedian Movahed** and **Prof. Dave Touretzky** 
+- **Saniya Vahedian Movahed** and **Prof. Dave Touretzky**
+- 
+## Acknowledgments
 
+This work is supported by the [AI Caring Institute](https://www.ai-caring.org/), NSF Grant No. IIS‑2112633.
 ## Citation
 
 ```bibtex
